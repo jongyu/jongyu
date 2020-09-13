@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on autotest
+- 🌱 I’m currently learning kotlin
+- 📫 How to reach me: zhongyu.vip@gmail.com

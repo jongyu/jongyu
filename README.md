@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 | 语言 | 关注 |
 | --- | --- |
-| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongyu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongyu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongyu)](https://github.com/anuraghazra/github-readme-stats)
+ | [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongyu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |

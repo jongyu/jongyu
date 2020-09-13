@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on autotest
 - 🌱 I’m currently learning kotlin
 - 📫 How to reach me: zhongyu.vip@gmail.com
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongyu)](https://github.com/anuraghazra/github-readme-stats)

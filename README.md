@@ -21,5 +21,7 @@ Here are some ideas to get you started:
  <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongyu)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<!--START_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongyu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--END_SECTION:waka-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
